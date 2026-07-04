@@ -1,16 +1,45 @@
-# bbgym
+# HoopsHub
 
-A new Flutter project.
+HoopsHub is a Flutter-based mobile application developed as a school project for managing basketball gym operations. It provides an intuitive interface for administrators to manage coaches, training schedules, equipment inventory, and court information.
 
-## Getting Started
+## Features
+- User authentication
+- Coach management
+- Equipment inventory
+- Training schedule management
+- Court/location information
+- Image upload for coaches
 
-This project is a starting point for a Flutter application.
+## Built With
+- Flutter
+- Dart
+- Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Login Screen
+![Login](images/Login.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Schedule
+![Schedule](images/Schedule.jpg)
+
+### Scheduling
+![Scheduling](images/Scheduling.jpg)
+
+### Time
+![Time](images/Time.jpg)
+
+### Sidebar
+![Sidebar](images/Sidebar.jpg)
+
+### Specialty
+![Specialty](images/Specialty.jpg)
+
+### Trainers
+![Trainers](images/Trainers.jpg)
+
+### Equipment Inventory
+![Equipments](images/Equipments.jpg)
+
+## License
+This project is intended for educational purposes.
