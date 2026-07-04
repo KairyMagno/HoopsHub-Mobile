@@ -17,28 +17,20 @@ HoopsHub is a Flutter-based mobile application developed as a school project for
 
 ## Screenshots
 
-### Login Screen
+### Login & Schedule
 <img src="images/Login.jpg" width="180"/>
-
-### Schedule
 <img src="images/Schedule.jpg" width="180"/>
 
-### Scheduling
+### Scheduling & Time
 <img src="images/Scheduling.jpg" width="180"/>
-
-### Time
 <img src="images/Time.jpg" width="180"/>
 
-### Sidebar
+### Sidebar & Specialty
 <img src="images/Sidebar.jpg" width="180"/>
-
-### Specialty
 <img src="images/Specialty.jpg" width="180"/>
 
-### Trainers
+### Trainers & Equipment
 <img src="images/Trainers.jpg" width="180"/>
-
-### Equipment Inventory
 <img src="images/Equipments.jpg" width="180"/>
 
 ## License
